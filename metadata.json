@@ -1,0 +1,7 @@
+{
+  "name": "Radar Legislativo Brasil - Senado e Câmara em Tempo Real",
+  "description": "Acompanhamento em tempo real de pautas, votações, urgências e parlamentares do Congresso Nacional com análise de coerência ideológica e plano de governo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
